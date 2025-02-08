@@ -23,4 +23,4 @@ Synthèse vocale IA : Génération de messages vocaux pour encourager les élèv
 genai.configure(api_key="VOTRE_CLE_API")
 
 𝐋𝐢𝐞𝐧 𝐯𝐞𝐫𝐬 𝐥𝐞 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐅𝐥𝐚𝐬𝐤
-Le code du chatbot Flask se trouve dans le dossier 𝙢𝙮𝘾𝙝𝙖𝙩𝘽𝙤𝙩 au sein de ce repository. Il est conçu pour interagir avec l'application mobile et peut être testé localement en utilisant le serveur Flask.
+Le code du chatbot Flask se trouve dans le dossier 𝙢𝙮𝘾𝙝𝙖𝙩𝘽𝙤𝙩 au sein de ce repository. Il est conçu pour interagir avec l'application mobile et peut être testé localement en utilisant le serveur Flask. Le chatbot est également 𝙙𝙚́𝙥𝙡𝙤𝙮𝙚́ 𝙚𝙣 𝙡𝙞𝙜𝙣𝙚 𝙨𝙪𝙧 𝙍𝙚𝙣𝙙𝙚𝙧.𝙘𝙤𝙢 et peut être 𝙖𝙘𝙘𝙚𝙨𝙨𝙞𝙗𝙡𝙚 𝙖̀ 𝙡'𝙖𝙙𝙧𝙚𝙨𝙨𝙚 suivante : "𝗵𝘁𝘁𝗽𝘀://𝗰𝗵𝗮𝘁𝗯𝗼𝘁-𝟭-𝗰𝘆𝗸𝗽.𝗼𝗻𝗿𝗲𝗻𝗱𝗲𝗿.𝗰𝗼𝗺/𝘁𝗮𝗹𝗸"
